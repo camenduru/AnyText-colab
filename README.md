@@ -19,6 +19,7 @@ https://modelscope.cn/models/damo/cv_anytext_text_generation_editing
 
 ### 🖼 Output
 ![Screenshot 2023-12-31 035123](https://github.com/camenduru/AnyText-colab/assets/54370274/b45fe6c8-f3aa-4e4e-8b10-18258c171e21)
+![Screenshot 2023-12-31 040624](https://github.com/camenduru/AnyText-colab/assets/54370274/57cdfb9c-dbeb-4219-9e56-4c2b2687ac42)
 
 ### 🏢 Sponsor
 https://modelslab.com
